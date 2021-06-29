@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace MyFirstConsoleApp2
+namespace MyFirstConsoleApp2                    //Namespace MyFirstCnsoleApp2
 {
-    class Program
+    class Program                               //Class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)         //Method Program entry
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
